@@ -1,8 +1,8 @@
-# Blog Tech Blog
+# Tech Blog
 
 ## Overview
 
-The Blog Tech Blog is a dynamic web application designed for tech enthusiasts and bloggers. It's built with React and integrated with Strapi, a headless CMS. This setup provides a seamless experience for both readers and writers, allowing users to browse various blog posts on the homepage and delve into detailed content on individual blog pages. The application utilizes React for the frontend and Strapi for backend content management via a REST API.
+The Tech Blog is a dynamic web application designed for tech enthusiasts and bloggers. It's built with React and integrated with Strapi, a headless CMS. This setup provides a seamless experience for both readers and writers, allowing users to browse various blog posts on the homepage and delve into detailed content on individual blog pages. The application utilizes React for the frontend and Strapi for backend content management via a REST API.
 
 ## Features
 
