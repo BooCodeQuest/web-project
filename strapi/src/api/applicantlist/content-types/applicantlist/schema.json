@@ -1,0 +1,14 @@
+{
+  "kind": "collectionType",
+  "collectionName": "applicantlists",
+  "info": {
+    "singularName": "applicantlist",
+    "pluralName": "applicantlists",
+    "displayName": "applicantlist"
+  },
+  "options": {
+    "draftAndPublish": true
+  },
+  "pluginOptions": {},
+  "attributes": {}
+}
