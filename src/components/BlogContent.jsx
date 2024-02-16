@@ -16,7 +16,6 @@ const BlogContent = ({ blogs }) => {
                             {item.children.map((child, childIndex) => <span key={childIndex}>{child.text}</span>)}
                         </p>
                     );
-                // Add more cases here for other types like 'heading', 'list', etc.
                 default:
                     return null;
             }

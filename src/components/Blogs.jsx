@@ -9,7 +9,7 @@ const Blogs = ({ blogs }) => {
             <div className='max-w-[1240px] mx-auto'>
                 <div className='grid lg:grid-cols-3 md:grid-cols-2 sm:grid-cols-2 ss:grid-cols-1 gap-8 px-4 text-black'>
                     {blogs.data.map((blog) => {
-                        // Ensure there is a cover image and it has a non-null data property
+                        
                         const coverImageUrl = blog.attributes.coverImg && blog.attributes.coverImg.data && blog.attributes.coverImg.data[0]
                             ? `http://localhost:1337${blog.attributes.coverImg.data[0].attributes.url}`
                             : 'path_to_some_default_image_if_needed'; 
